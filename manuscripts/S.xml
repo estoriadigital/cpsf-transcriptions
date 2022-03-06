@@ -1,3 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title n="S" type="document">A transcription of the Crónica Particular de San Fernando in S</title>
+        <respStmt>
+          <resp>Created by</resp>
+          <name type="org">The Estoria de Espanna Project</name>
+        </respStmt>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name type="person">Polly Duxfield</name>
+        </respStmt>
+        <funder>This transcription was made as part a doctoral research project which was part of the "An electronic research
+          environment and edition of the Estoria de Espanna of Alfonso X, King of Castile
+          and Leon", which has received funding from the Arts and Humanities Research
+          Council (AHRC).
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1.1">Version 1.1, created on <date when-iso="2020-06-20">20.06.2020</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><name type="org">The University of Birmingham</name></publisher>
+        <date when-iso="2018-05-30">30.05.2018</date>
+        <availability>
+          <p>Attribution 4.0 International (CC BY-SA 4.0) See further <ptr target="https://creativecommons.org/licenses/by-sa/4.0/"/>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>S</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="1.4">
+      <projectDesc>
+        <p>This transcription was made by the Estoria de Espanna project.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>This transcription was prepared using a text editor.
+        </p>
+        <p>The XML specifications used are available at <ptr target="https://blog.bham.ac.uk/estoriadigital/transcription-guidelines/"/></p>
+      </editorialDecl>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
 <div n="S">
 <pb facs="5" n="1r"/><cb n="a"/><div n="1040" corresp="#PCGcap1029">
 <lb/><head><hi rend="init4unex">A</hi>q<am>ⁱ</am><ex>ui</ex> comjença la coronica delas
@@ -6039,3 +6087,4 @@ orden del ospital <am>⁊</am><ex>e</ex> y murio
 <lb/>coro çelestial en conpan<am>̄</am><ex>n</ex>a delos sus sie<am>̉</am><ex>r</ex>
 <lb break="no"/>uos amen</head>
 </div></div>
+    </body></text></TEI>

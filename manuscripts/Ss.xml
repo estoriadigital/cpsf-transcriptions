@@ -1,3 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title n="Ss" type="document">A transcription of the Crónica Particular de San Fernando in Ss</title>
+        <respStmt>
+          <resp>Created by</resp>
+          <name type="org">The Estoria de Espanna Project</name>
+        </respStmt>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <name type="person">[name]</name>
+        </respStmt>
+        <funder>This transcription was made as part of the "An electronic research
+          environment and edition of the Estoria de Espanna of Alfonso X, King of Castile
+          and Leon", which has received funding from the Arts and Humanities Research
+          Council (AHRC).
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1.1">Version 1.1, created on <date when-iso="2020-06-20">20.06.2020</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><name type="org">The University of Birmingham</name></publisher>
+        <date when-iso="2020-06-20">20.06.2020</date>
+        <availability>
+          <p>Attribution 4.0 International (CC BY-SA 4.0) See further <ptr target="https://creativecommons.org/licenses/by-sa/4.0/"/>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Ss (Biblioteca de la Caja de Ahorros de Salamanca ms. 40).</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="1.4">
+      <projectDesc>
+        <p>This transcription was made by the Estoria de Espanna project.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>This transcription was prepared by the transcribers using the Textual Communities
+          system at the University of Saskatchewan. This tool provided transcribers with
+          the ability to work on transcriptions of individual folios whose images were
+          accompanied by a transcription space. An automatic parser in the Textual
+          Communities system ensured that only correctly expressed xml was entered into
+          the system.
+        </p>
+        <p>The XML specifications used are available at <ptr target="https://blog.bham.ac.uk/estoriadigital/transcription-guidelines/"/></p>
+      </editorialDecl>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
 <div n="Ss">
 <lb/><div n="1040" corresp="#PCGcap1029"><pb n="279v"/><head rend="h1" n="Rubric"><space quantity="2" unit="lines"/></head>
 <lb/><ab n="100"><hi rend="init3unex">a</hi>cabadas las <choice><abbr><am><g>R</g></am></abbr><expan><ex>rr</ex></expan></choice>azones del
@@ -801,7 +854,7 @@
 <lb/>avn va la estoria adelante enlos fe
 <lb break="no"/>chos del <choice><abbr><am><g>R</g></am></abbr><expan><ex>rr</ex></expan></choice>ey don ferrando <am>⁊</am><ex>e</ex> dize el
 <lb/>fecho de su casa <space quantity="21" unit="chars"/></ab></div><div n="1047" corresp="#PCGcap1036">
-<lb/><head rend="h1" n="Rubric"><space quantity="" unit="lines"/></head>
+<lb/><head rend="h1" n="Rubric"><space unit="lines"/></head>
 <lb/><ab n="100"><hi rend="init3unex">a</hi>cabada la estoria cuenta de
 <lb/>las trauesuras <am>⁊</am><ex>e</ex> delos fe
 <lb break="no"/>chos <am>⁊</am><ex>e</ex> delas vidas <am>⁊</am><ex>e</ex> delos
@@ -921,7 +974,7 @@
 <app>
 <rdg type="lit">for<unclear>t</unclear>ol<seg rend="overwritten"><seg type="1">a<unclear>r</unclear></seg><seg type="2">ez</seg></seg>a</rdg>
 <rdg type="orig">for<unclear>tolera</unclear></rdg>
-<rdg type="mod" resp="">fortaleza</rdg>
+<rdg type="mod">fortaleza</rdg>
 </app>
 <lb/>della tollio les los panes <am>⁊</am><ex>e</ex> los fru
 <lb break="no"/>tos <am>⁊</am><ex>e</ex> desi mouio dende <am>⁊</am><ex>e</ex> fue aplie
@@ -1241,7 +1294,7 @@
 <lb/><app>
 <rdg type="lit">aqu<seg rend="overwritten"><seg type="1"><unclear>e</unclear></seg><seg type="2">y</seg></seg></rdg>
 <rdg type="orig">aqu<unclear>e</unclear></rdg>
-<rdg type="mod" resp="">aqui</rdg>
+<rdg type="mod">aqui</rdg>
 </app>
  el <choice><abbr>arço<lb break="no"/>bp<am>̄</am>o</abbr><expan>arço<lb break="no"/>b<ex>is</ex>po</expan></choice> don <choice><abbr><am><g>R</g></am></abbr><expan><ex>rr</ex></expan></choice>odrigo desta guisa que
 <lb/>deximos por que era y el <am>⁊</am><ex>e</ex> venie
@@ -1946,9 +1999,9 @@
 <cb n="a"/>
 <lb/>sola mente aquel que <choice><abbr><am>ꝑ</am>donar</abbr><expan>p<ex>er</ex>donar</expan></choice> non
 <note resp="1" place="lm">No<am>ᵅ</am><ex>ta</ex>
-<lb/><gap quantity="" unit="chars" reason="trimmed"/>iraglo sobre
-<lb/><gap quantity="" unit="chars" reason="trimmed"/>quiso <choice><abbr><am>ꝑ</am>donar</abbr><expan>p<ex>er</ex>donar</expan></choice>
-<lb/><gap quantity="" unit="chars" reason="trimmed"/>migo.</note>
+<lb/><gap unit="chars" reason="trimmed"/>iraglo sobre
+<lb/><gap unit="chars" reason="trimmed"/>quiso <choice><abbr><am>ꝑ</am>donar</abbr><expan>p<ex>er</ex>donar</expan></choice>
+<lb/><gap unit="chars" reason="trimmed"/>migo.</note>
 <lb/>quiso. </ab><ab n="4000">E esto fue muy grant ma
 <lb break="no"/>rauilla ca nu<am>̄</am><ex>n</ex>ca fue despues que ni<am>̄</am><ex>n</ex>
 <lb break="no"/>guno sopiese del <choice><abbr><am>ꝑ</am>te</abbr><expan>p<ex>ar</ex>te</expan></choice> nin ma<am>̄</am><ex>n</ex>dado
@@ -3151,7 +3204,7 @@
 <app>
 <rdg type="lit">abenal<seg rend="er"><seg type="1"><gap quantity="3" unit="chars" reason="illegible"/></seg><seg type="2">ha</seg></seg>mar</rdg>
 <rdg type="orig">abenal<gap quantity="3" unit="chars" reason="illegible"/>mar</rdg>
-<rdg type="mod" resp="">abenalhamar</rdg>
+<rdg type="mod">abenalhamar</rdg>
 </app>
  <choice><abbr><am><g>R</g></am></abbr><expan><ex>rr</ex></expan></choice>ey
 <lb/>de arjona que se llamo en comien
@@ -3233,7 +3286,7 @@
 <app>
 <rdg type="lit"><seg rend="er"><seg type="1"><gap quantity="4" unit="chars" reason="illegible"/></seg><seg type="2">enla</seg></seg></rdg>
 <rdg type="orig"><gap quantity="4" unit="chars" reason="illegible"/></rdg>
-<rdg type="mod" resp="">enla</rdg>
+<rdg type="mod">enla</rdg>
 </app>
 <lb/>de xeres caualleros que es lo q<am>̄</am><ex>ue</ex>
 <lb/>cuydades fagamos de nos tropel
@@ -3532,7 +3585,7 @@ la
 <app>
 <rdg type="lit">lu<seg rend="overwritten"><seg type="1"><unclear>c</unclear></seg><seg type="2">t</seg></seg></rdg>
 <rdg type="orig">lu<unclear>c</unclear></rdg>
-<rdg type="mod" resp="">lut</rdg>
+<rdg type="mod">lut</rdg>
 </app>. 
 porcuna. cote moro<am>̄</am><ex>n</ex> 
 <lb/>fornachuelos. E otros muchos
@@ -4958,7 +5011,7 @@ porcuna. cote moro<am>̄</am><ex>n</ex>
 <lb/><app>
 <rdg type="lit">po<seg rend="overwritten"><seg type="1"><gap quantity="1" unit="chars" reason="illegible"/></seg><seg type="2">s</seg></seg>ada</rdg>
 <rdg type="orig">po<gap quantity="1" unit="chars" reason="illegible"/>ada</rdg>
-<rdg type="mod" resp="">posada</rdg>
+<rdg type="mod">posada</rdg>
 </app>. </ab><ab n="500">el <choice><abbr><am><g>R</g></am></abbr><expan><ex>rr</ex></expan></choice>eal do estaua la ti
 <lb break="no"/>enda del <choice><abbr><am><g>R</g></am></abbr><expan><ex>rr</ex></expan></choice>ey era vn poco en al
 <lb break="no"/>tura <am>⁊</am><ex>e</ex> por donde ellos yua<am>̄</am><ex>n</ex> era
@@ -7721,7 +7774,7 @@ porcuna. cote moro<am>̄</am><ex>n</ex>
 <lb break="no"/>n<am>̄</am><ex>n</ex>or en mill <am>⁊</am><ex>e</ex> dozientos <am>⁊</am><ex>e</ex> çinq<am>̄</am><ex>ue</ex>n
 <lb break="no"/>ta <am>⁊</am><ex>e</ex> dos an<am>̄</am><ex>n</ex>os. </ab><ab n="700">el sabado terçero
 <lb/>dia despu<am>̄</am><ex>e</ex>s que el su <choice><abbr>finami<hi rend="sup">o</hi></abbr><expan>finami<ex>ent</ex>o</expan></choice> fue
-<lb/>lo me<ab n="800">muy <choice><abbr><am><g>R</g></am></abbr><expan><ex>rr</ex></expan></choice>esçelada
+<lb/>lo me</ab><ab n="800">muy <choice><abbr><am><g>R</g></am></abbr><expan><ex>rr</ex></expan></choice>esçelada
 <lb/>sera sienpre aquella egl<am>̄</am><ex>es</ex>ia <am>⁊</am><ex>e</ex> muy
 <lb/>dubdada por el su santo cuerpo des
 <lb break="no"/>te tan alto <am>⁊</am><ex>e</ex> tan noble <am>⁊</am><ex>e</ex> tan bie<am>̄</am><ex>n</ex>
@@ -7762,8 +7815,7 @@ porcuna. cote moro<am>̄</am><ex>n</ex>
 <lb break="no"/>rrando en pu<am>̄</am><ex>n</ex>to bueno nasçio de
 <lb/>quela estoria los bien<am>̄</am><ex>e</ex>s q<am>̄</am><ex>ue</ex> oydotieron enla noble ygl<am>̄</am><ex>es</ex>ia de
 <cb n="b"/>
-<lb/>santa m<am>ᵅ</am><ex>ar</ex>ia de seuilla </ab>
-
+<lb/>santa m<am>ᵅ</am><ex>ar</ex>ia de seuilla 
 <pb n="325r" facs="654"/>
 <fw type="pageNum" place="tm">ccc xxv</fw>
 <cb n="a"/>
@@ -7804,16 +7856,17 @@ porcuna. cote moro<am>̄</am><ex>n</ex>
 <cb n="b"/>
 <lb/><space quantity="38" unit="lines"/>
 <note resp="FM">Column b blank. Series of pentrials, more than one hand, written in blank column b</note>
-<lb/><note resp="3"><lb/>el rrey don <choice><abbr>Sn<hi rend="sup">o</hi></abbr><expan>S<ex>a</ex>n<ex>ch</ex>o</expan></choice> de leon en Valle?<gap quantity="" unit="" reason="trimmed"></gap>
+<lb/><note resp="3"><lb/>el rrey don <choice><abbr>Sn<hi rend="sup">o</hi></abbr><expan>S<ex>a</ex>n<ex>ch</ex>o</expan></choice> de leon en Valle?<gap reason="trimmed"></gap>
 <lb/>muy yll<am>̄</am><ex>ustrisi</ex>mo <choice><abbr>Sr</abbr><expan>Sen<am>̄</am><ex>n</ex>or</expan></choice>
-<lb/>como don Juan v<gap quantity="" unit="" reason="trimmed"></gap>
-<lb/>a casa del rrey don<gap quantity="" unit="" reason="trimmed"></gap>
+<lb/>como don Juan v<gap reason="trimmed"></gap>
+<lb/>a casa del rrey don<gap reason="trimmed"></gap>
 <lb/>como
-<lb/>como yo do<gap quantity="" unit="" reason="trimmed"></gap>
-<lb/>Sepan q <space quantity="" unit=""/><gap quantity="" unit="" reason="trimmed"></gap>
-<lb/>quanta<gap quantity="" unit="" reason="trimmed"></gap>
-<lb/>carta vi<gap quantity="" unit="" reason="trimmed"></gap>
+<lb/>como yo do<gap reason="trimmed"></gap>
+<lb/>Sepan q <space/><gap reason="trimmed"></gap>
+<lb/>quanta<gap reason="trimmed"></gap>
+<lb/>carta vi<gap reason="trimmed"></gap>
 <lb/>yll<am>̄</am><ex>ustrisi</ex>mo <choice><abbr>Sr</abbr><expan>Sen<am>̄</am><ex>n</ex>or</expan></choice>
-<lb/>francisco sanchez vezino de la<gap quantity="" unit="" reason="trimmed"></gap></note>
+<lb/>francisco sanchez vezino de la<gap reason="trimmed"></gap></note>
 <note resp="FM">MS ends here</note>
 </ab></div></div>
+    </body></text></TEI>

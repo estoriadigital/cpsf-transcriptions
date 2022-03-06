@@ -1,3 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title n="E2" type="document">A transcription of the Crónica Particular de San Fernando in E2</title>
+        <respStmt>
+          <resp>Created by</resp>
+          <name type="org">The Estoria de Espanna Project</name>
+        </respStmt>
+        <respStmt>
+          <resp when-iso="2017-10-09">Transcribed by</resp>
+          <name type="person">[name]</name>
+        </respStmt>
+        <funder>This transcription was made as part of the "An electronic research
+          environment and edition of the Estoria de Espanna of Alfonso X, King of Castile
+          and Leon", which has received funding from the Arts and Humanities Research
+          Council (AHRC).
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1.1">Version 1.1, created on <date when-iso="2020-08-20">20.08.2020</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><name type="org">The University of Birmingham</name></publisher>
+        <date when-iso="2020-08-20">20.08.2020</date>
+        <availability>
+          <p>Attribution 4.0 International (CC BY-SA 4.0) See further <ptr target="https://creativecommons.org/licenses/by-sa/4.0/"/>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>E2 Biblioteca del Monasterio de San Lorenzo, El Escorial: manuscrito X-I-4..
+          Images available at <ptr
+            target="https://rbdigital.realbiblioteca.es/s/rbme/item/13352#?c=&amp;m=&amp;s=&amp;cv=&amp;xywh=-1483%2C-130%2C4618%2C2598"
+          />.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="1.4">
+      <projectDesc>
+        <p>This transcription was made by the Estoria de Espanna project.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>This transcription was prepared by the transcribers using the Textual Communities
+          system at the University of Saskatchewan. This tool provided transcribers with
+          the ability to work on transcriptions of individual folios whose images were
+          accompanied by a transcription space. An automatic parser in the Textual
+          Communities system ensured that only correctly expressed xml was entered into
+          the system.
+        </p>
+        <p>The XML specifications used are available at <ptr target="https://blog.bham.ac.uk/estoriadigital/transcription-guidelines/"/></p>
+      </editorialDecl>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
 <div n="E2">
 <pb facs="X-I-4-632.jpg" n="316r"/>
  
@@ -2287,7 +2343,7 @@
 <lb/>de que los vieron asi apoderados de
 <lb/>aquel arraualde del axarq<am>ⁱ</am><ex>ui</ex>a ouiero<am>̄</am><ex>n</ex>
 <lb/>a desanparar las casas <am>⁊</am><ex>e</ex> afoyr con q<am>ᵅ</am><ex>ua</ex>n
-<lb break="no"/>to tenien <am>ꝑ</am><ex>par</ex>a dentro ala uilla </ab><ab n="2500"><am>⁊</am><ex>e</ex> los <choice><abbr>x<am>ⁱ</am>a<lb break="no"/>nos</abbr><expan><ex>cristi</ex>a<lb break="no"/>nos</expan></choice> fazian sus espolonadas <gap quantity="" unit="chars" reason="illegible"/>
+<lb break="no"/>to tenien <am>ꝑ</am><ex>par</ex>a dentro ala uilla </ab><ab n="2500"><am>⁊</am><ex>e</ex> los <choice><abbr>x<am>ⁱ</am>a<lb break="no"/>nos</abbr><expan><ex>cristi</ex>a<lb break="no"/>nos</expan></choice> fazian sus espolonadas <gap unit="chars" reason="illegible"/>
 <lb/>por las calles en pos ellos <am>⁊</am><ex>e</ex> mataua<am>̄</am><ex>n</ex> mu
 <lb break="no"/>chos <gap quantity="3" unit="chars" reason="illegible"/> alaraues <am>⁊</am><ex>e</ex> los <choice><abbr>x<am>ⁱ</am>anos</abbr><expan><ex>cristi</ex>anos</expan></choice> barre
 <lb break="no"/>aro<am>̄</am><ex>n</ex> todas las calles del arraualde del
@@ -2364,7 +2420,7 @@
 <lb/>don <gap quantity="5" unit="chars" reason="illegible"/> <choice><abbr><am><g>rr</g></am></abbr><expan><ex>R</ex></expan></choice>oyz cabeça de uaca <am>⁊</am><ex>e</ex> el otro
 <lb/>don <gap quantity="3" unit="chars" reason="illegible"/> lopez de uayas que era <gap quantity="4" unit="chars" reason="illegible"/>
 <lb/><gap quantity="6" unit="chars" reason="illegible"/>ero <am>⁊</am><ex>e</ex> el otro m<am>̉</am><ex>artin</ex> Gonçalez de <gap quantity="2" unit="chars" reason="illegible"/>
-<lb/><gap quantity="5" unit="cha8rs" reason="illegible"/> <am>⁊</am><ex>e</ex> el otro sancho lopez <gap quantity="" unit="chars" reason="illegible"/>
+<lb/><gap quantity="5" unit="cha8rs" reason="illegible"/> <am>⁊</am><ex>e</ex> el otro sancho lopez <gap unit="chars" reason="illegible"/>
   <lb/><gap quantity="5" unit="chars" reason="illegible"/> don <choice><abbr>io<am>̄</am>hn</abbr><expan>ioh<ex>a</ex>n</expan></choice> arias mexia <am>⁊</am><ex>e</ex> otros
 <lb/>de qui non sabemos aqui <gap quantity="3" unit="chars" reason="illegible"/> los no<am>̄</am><ex>m</ex>
 <lb break="no"/>bres </ab><ab n="3800"><am>⁊</am><ex>e</ex> de alli mouio el Rey <gap quantity="8" unit="chars" reason="illegible"/>
@@ -2375,7 +2431,7 @@
 <lb/>llego a esa çerca de cordoua pieca auie
 <lb/>ya que don aluar perez yazie dentro en<am>̄</am><ex>e</ex>l
 <lb/>axarquia en ayuda delos <choice><abbr>x<am>ⁱ</am>anos</abbr><expan><ex>cristi</ex>anos</expan></choice> <am>⁊</am><ex>e</ex> don <am>ꝑ</am><ex>per</ex>o
-<lb/>m<am>̉</am><ex>artine</ex>s su <am>ħ</am><ex>her</ex>mano <am>⁊</am><ex>e</ex> q<am>ⁱ</am><ex>ui</ex>en los <gap quantity="" unit="chars" reason="illegible"/>
+<lb/>m<am>̉</am><ex>artine</ex>s su <am>ħ</am><ex>her</ex>mano <am>⁊</am><ex>e</ex> q<am>ⁱ</am><ex>ui</ex>en los <gap unit="chars" reason="illegible"/>
 <lb/>alfrac por q<am>̄</am><ex>ue</ex> era <gap quantity="10" unit="chars" reason="illegible"/>
 <lb/>dela frontera de pie <am>⁊</am><ex>e</ex> de cauallo <am>⁊</am><ex>e</ex> delas
 <lb/>otras tiendas de castiella <am>⁊</am><ex>e</ex> de leon <am>⁊</am><ex>e</ex> de es
@@ -3640,7 +3696,7 @@ depus q<am>̄</am><ex>ue</ex>
 <lb/>arrecodir abehudiel <am>⁊</am><ex>e</ex> alos otros seno
 <lb break="no"/>res de Creuillen <am>⁊</am><ex>e</ex> dalicante <am>⁊</am><ex>e</ex> delche
 <lb/><am>⁊</am><ex>e</ex> de orihuela ¶ <am>⁊</am><ex>e</ex> dalhama ¶ <am>⁊</am><ex>e</ex>
-<lb/>de laedo ¶ <am>⁊</am><ex>e</ex> de Ricot ¶ <am>⁊</am><ex>e</ex> de <gap quantity="" unit="chars" reason="illegible"/>
+<lb/>de laedo ¶ <am>⁊</am><ex>e</ex> de Ricot ¶ <am>⁊</am><ex>e</ex> de <gap unit="chars" reason="illegible"/>
 <lb/><am>⁊</am><ex>e</ex> de todos los otros logares del Reyn
 <lb break="no"/>o de mu<am>̉</am><ex>r</ex>çia que eran Sen<am>̄</am><ex>n</ex>orios <choice><abbr>so<am>b̶</am>r</abbr><expan>so<ex>b</ex>r<ex>e</ex></expan></choice>
 <lb/>si </ab><ab n="900">¶ <am>⁊</am><ex>e</ex> Desta guisa apoderaron los
@@ -7549,4 +7605,4 @@ depus q<am>̄</am><ex>ue</ex>
 <lb/>cu<am>̄</am><ex>m</ex> <choice><abbr>dn<am>̄</am>o</abbr><expan>d<ex>omi</ex>no</expan></choice> Uiuat ⸫
 <note resp="AW">Later hand gives column of "los rreyes de castilla e de leo q objero nobres alfosos so estos" up to Alfonso XI</note>
 <lb/></ab>
-<pb facs="X-I-4-720.jpg" n="360r"/></div></div>
+<pb facs="X-I-4-720.jpg" n="360r"/></div></div></body></text></TEI>
