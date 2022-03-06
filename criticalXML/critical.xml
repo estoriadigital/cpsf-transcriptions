@@ -1,4 +1,44 @@
-<root>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="document">A critical text of the Crónica Particular de San Fernando</title>
+                <respStmt>
+                    <resp>Created by</resp>
+                    <name type="org">The Estoria de Espanna Project</name>
+                </respStmt>
+                <funder>This transcription was made as part a doctoral research project which was part of the "An electronic research
+                    environment and edition of the Estoria de Espanna of Alfonso X, King of Castile
+                    and Leon", which has received funding from the Arts and Humanities Research
+                    Council (AHRC).
+                </funder>
+            </titleStmt>
+            <editionStmt>
+                <edition n="1.1">Version 1.1, created on <date when-iso="2018-05-30">30.05.2018</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><name type="org">The University of Birmingham</name></publisher>
+                <date when-iso="2018-05-30">30.05.2018</date>
+                <availability>
+                    <p>Attribution 4.0 International (CC BY-SA 4.0) See further <ptr target="https://creativecommons.org/licenses/by-sa/4.0/"/>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="1.4">
+            <projectDesc>
+                <p>This transcription was made by the Estoria de Espanna project.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>The critical text of the Crónica Particular de San Fernando</p>
+            </editorialDecl>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body><div type="book">
 <div n="1040" corresp="#PCGcap1029">
 <head rend="h1" n="Rubric"> Del regnado del tercero don Fernando rey que regno treynta e tercero despues del rey don Pelayo en Castiella, e despues a tiempo en Leon, e fue rey de Castiella e de Leon d'alli adelant. El capitulo de como este don Fernando rey de Castiella fue alçado rey de Castiella. </head>
 <ab n="100"> Acabadas las razones del rey don <div class="tooltip">Enrique<span class="tooltiptext">D, F, S, Ss</span></div> e de los otros reyes que regnaron ante dell, </ab>
@@ -1738,4 +1778,4 @@
 
 <div n="1146" corresp="#PCGcap1135">
 <head rend="h1" n="Rubric"> Miraglos que Dios fizo por el santo rey don Fernando, que yaze en Sevilla despues que fue finado, por la cual razon las gentes non deven dubdar que santo confirmado de Dios non sea e coronado en el coro celestial en conpaña de los sus altos siervos. </head>
-<ab n="100"> Qui me scripsit scribat, semper cum Domino vivat </ab></div></root>
+<ab n="100"> Qui me scripsit scribat, semper cum Domino vivat </ab></div></div></body></text></TEI>

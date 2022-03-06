@@ -1,4 +1,44 @@
-<root>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="document">A readers text of the Crónica Particular de San Fernando</title>
+                <respStmt>
+                    <resp>Created by</resp>
+                    <name type="org">The Estoria de Espanna Project</name>
+                </respStmt>
+                <funder>This transcription was made as part a doctoral research project which was part of the "An electronic research
+                    environment and edition of the Estoria de Espanna of Alfonso X, King of Castile
+                    and Leon", which has received funding from the Arts and Humanities Research
+                    Council (AHRC).
+                </funder>
+            </titleStmt>
+            <editionStmt>
+                <edition n="1.1">Version 1.1, created on <date when-iso="2018-05-30">30.05.2018</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><name type="org">The University of Birmingham</name></publisher>
+                <date when-iso="2018-05-30">30.05.2018</date>
+                <availability>
+                    <p>Attribution 4.0 International (CC BY-SA 4.0) See further <ptr target="https://creativecommons.org/licenses/by-sa/4.0/"/>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="1.4">
+            <projectDesc>
+                <p>This transcription was made by the Estoria de Espanna project.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>A translation of part of the Crónica Particular de San Fernando into modern English.</p>            
+            </editorialDecl>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body><div type="book">
 <div n="1057">
 <head n="rubric"> Chapter of the siege and the conquest of <div class="tooltip">Córdoba <span class="tooltiptext">"Córdoba is a city in Andalucía. Córdoba city is also the capital of the province of Córdoba. An important city in the times of the Romans and of the Visigoths, Córdoba came under Muslim rule in 711 and became one of the largest cities in the world with a thriving economy. However, from 1225 until its reconquest by Fernando III, for political reasons, the city was in a period of economic and demographic crisis, weakening its defences. Córdoba was recaptured by King Fernando III in 1236 as part of the Reconquest campaigns to recover Muslim-ruled areas of modern-day Spain. Given its status as a Roman and the a Moorish city, Córdoba was a significant gain for Fernando and a sorry loss for the Moors. Manuel González Jiménez explains that Córdoba was a target in the Reconquest campaign because of its proximity to the town of Andújar, from where all the operations for reconquering this area of al-Andalus were organised. Córdoba is home to the building known as the Mezquita, which dates to the 10th century, and much of the medieval Islamic architecture can still be seen. The Mezquita, now a UNESCO world heritage site, was once a great mosque, and after the Reconquest became an important cathedral. For more information see https://whc.unesco.org/en/list/313">Córdoba</span></div>.</head>
 <ab n="100"> Having told the story of the other great deeds of <div class="tooltip">King Fernando <span class="tooltiptext">Fernando III (later San Fernando) reigned from 1217 (Castilla) and 1230 (León) until his death in 1252. Throughout the chapter he is also referred to as don Fernando.</span></div> of Castilla and León, the history now moves to telling of how he took Córdoba, and it says:</ab>
@@ -98,6 +138,6 @@
 <ab n="9500"> In the tents of the righteous, voices of happiness and delight could be heard calling out,</ab>
 <ab n="9600"> that is those loyal to Christ,</ab>
 <ab n="9700"> and in those voices the bishops and all the clergy sang and said, <div class="tooltip">'Te Deum laudamos.' <span class="tooltiptext">Latin for ‘God we praise you’. Latin, rather than Castilian, would have been the language used for worship as it was still the language of the Church.</span></div> The very noble King Fernando, with the church and with the faith in the King of Heaven, entered there.</ab>
-<ab n="9800"> Now the history will go on to tell of the noble conquests of King Fernando, and of the works of piety carried out by him.</ab></div></root>
-
+<ab n="9800"> Now the history will go on to tell of the noble conquests of King Fernando, and of the works of piety carried out by him.</ab></div>
+        </div></body></text></TEI>
 
