@@ -25,3 +25,8 @@ Referencing
 
 To cite this resource use:
 Polly Duxfield (ed.) Transcriptions of [manuscript sigla, textual division(s), anonymous block(s], The Crónica Particular de San Fernando Digital v1.0, (Birmingham: University of Birmingham, 2018) estoria.bham.ac.uk/CPSF [date accessed]
+
+License
+-----
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
